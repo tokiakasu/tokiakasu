@@ -12,7 +12,7 @@ Even though I'm a developer, I spend most of my time studying/practicing offensi
 - [tokiakasu/write-ups](https://github.com/tokiakasu/write-ups) - CTF write-ups
 - [tokiakasu/waps](https://github.com/tokiakasu/waps) - Detect unknown access points and report to Telegram
 
-### 📫 How to reach me:
+### 📫 How to reach me
 
 - Email: [ar_bulgakov@outlook.com](mailto:ar_bulgakov@outlook.com)
 - Telegram: [@tokiakasus](https://t.me/tokiakasus)
